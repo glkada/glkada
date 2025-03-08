@@ -21,8 +21,7 @@ With expertise in continuous integration, performance testing, and QA best pract
 Feel free to navigate through stuffs I have done. Use it if you like or let me know if you have any suggestions!
 
 ### Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](www.linkedin.com/in/aditya-gholkar)
 <!--
 **glkada/glkada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
