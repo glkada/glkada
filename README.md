@@ -1,6 +1,6 @@
 ## Hola amigo! 👋
 
-I'm a Senior SDET with a little over 3 years of experience. Passionate about building robust test automation frameworks and ensuring top-notch software quality. <br /> 
+I'm a Senior SDET with a little over 4 years of experience. Passionate about building robust test automation frameworks and ensuring top-notch software quality. <br /> 
 I've worked in domains like: cross-browser testing, AI in healthcare, Fintech! <br /> 
 With expertise in continuous integration, performance testing, and QA best practices, I love optimizing workflows and collaborating with teams to deliver reliable, efficient solutions.
 
